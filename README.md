@@ -20,8 +20,8 @@ An interactive Sales Performance Dashboard developed using Power BI to analyze s
 - DAX (Basic)
 
 ## 📷 Dashboard Preview
-
-(Upload the dashboard screenshot here)
+## Dashboard Preview
+![Dashboard](Dashboard%20Screenshot.png)
 
 ## 📁 Files
 - Sales Performance Dashboard.pbix
